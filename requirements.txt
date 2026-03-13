@@ -1,0 +1,5 @@
+aiohttp>=3.9.0
+feedparser>=6.0.10
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
