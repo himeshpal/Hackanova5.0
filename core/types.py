@@ -80,6 +80,7 @@ class Paper:
             "title": self.title,
             "authors": self.authors,
             "year": self.year,
+            "abstract": self.abstract,  # <--- ADD THIS LINE!
             "source_url": self.source_url,
             "semantic_similarity_score": round(self.semantic_similarity_score, 4),
             "is_redundant": self.is_redundant,
